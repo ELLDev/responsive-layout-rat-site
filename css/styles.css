@@ -111,6 +111,10 @@ p.phone {
   padding-bottom: 1rem;
 }
 
+p.email {
+  padding-bottom: 4rem;
+}
+
 .phone,
 .email {
   color: rgb(131, 131, 131);
@@ -119,6 +123,7 @@ p.phone {
 .navbar-footer {
   display: flex;
   margin: 0 1rem;
+  padding: 1.25rem 0 1.5rem;
   border-top: 1px solid rgb(196, 196, 196);
 }
 
